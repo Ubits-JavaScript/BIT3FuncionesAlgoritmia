@@ -1,0 +1,14 @@
+{
+  "name": "bit3algoritmos",
+  "version": "1.0.0",
+  "description": "uso de funciones para resolver problemas algoritmicos",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "ubits"
+  ],
+  "author": "Cristian Buitrago",
+  "license": "ISC"
+}
