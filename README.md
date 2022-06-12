@@ -91,7 +91,7 @@ si alguno de los test falla veras un mensaje en consola como:
  [FALLA]: revisa tu función el test 1 esta fallando :(
 ```
 
-lo que implica que tienes que algo esta fallando y tienes que seguir trabajando en tu función.
+lo que implica que algo esta fallando y tienes que seguir trabajando en tu función.
 
 ## Reto 2
 
@@ -141,7 +141,7 @@ si alguno de los test falla verás un mensaje en consola como:
  [FALLA]: revisa tu función el test 1 está fallando :(
 ```
 
-lo que implica que tienes que algo está fallando y tienes que seguir trabajando en tu función.
+lo que implica que algo está fallando y tienes que seguir trabajando en tu función.
 
 ## Reto 3
 
@@ -196,4 +196,4 @@ si alguno de los test falla veras un mensaje en consola como:
  [FALLA]: revisa tu función el test 1 esta fallando :(
 ```
 
-lo que implica que tienes que algo está fallando y tienes que seguir trabajando en tu función.
+lo que implica que algo está fallando y tienes que seguir trabajando en tu función.
