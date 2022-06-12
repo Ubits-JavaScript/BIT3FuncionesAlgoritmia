@@ -4,11 +4,19 @@
   "description": "uso de funciones para resolver problemas algoritmicos",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "test-aplanar" : "jest ./test/aplanar.test.js",
+    "test-anagrama" : "jest ./test/anagrama.test.js",
+    "test-tictactoe": "jest ./test/tictactoe.test.js"
   },
   "keywords": [
     "ubits"
   ],
   "author": "Cristian Buitrago",
-  "license": "ISC"
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "@babel/plugin-transform-modules-commonjs": "^7.18.2",
+    "jest": "^28.1.1"
+  }
 }
